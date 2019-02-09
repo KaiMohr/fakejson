@@ -1,19 +1,16 @@
 [
 	{
-		"spanish": "Englisch",
-		"english": "Spanisch",
+		
 		"preguntar": "which bus goes to the beach",
 		"contesta": "qué autobús va a la playa"
 	},
 	{
-		"spanish": "Spanisch",
-		"english": "Englisch",
+		
 		"preguntar": "es tan duro se dice",
 		"contesta": "It is so hard to say"
 	},
 	{
-		"spanish": "Spanisch",
-		"english": "Deutsch",
+		
 		"preguntar": "fíjate",
 		"contesta": "schau"
 	}
